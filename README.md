@@ -9,7 +9,7 @@ Download the coco dataset to "./annotations" and "./images" by runing this [.sh]
 
 Move `coco_process.py` to "cocoapi/PythonAPI". This script 1) pull out human figures from coco dataset and make one single human figure per image. 
 Human figure are centered in the canvas and have a white frame. Meanwhile, the keypoints are processed with regard to the new human figures. 
-2) Create confidence map from keypoints. The processed dataset is written as `data.npy`.
+2) Create confidence map from keypoints. The processed dataset is written as `coco.npy` (recommend using >128G RAM to prepare data or spliting data to multiple .npy).
 
 Examples:
 
