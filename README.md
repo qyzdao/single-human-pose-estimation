@@ -13,7 +13,7 @@ Human figure are centered in the canvas and have a white frame. Meanwhile, the k
 
 Examples:
 
-<img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/131084_0.png" width="150"><img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/131084_0_c.png" width="150">.   <img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/262148_0.png" width="150"><img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/262148_0_c.png" width="150">
+<img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/131084_0.png" width="150"><img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/131084_0_c.png" width="150">.   <img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/262148_0.png" width="150"><img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/262148_0_c.png" width="150">
 
 
 ## Step 2 - training
@@ -23,6 +23,6 @@ After 3 epochs, start to converge. Evaluation results:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Input images    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Target      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Prediction
 
-<img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/289_img_GT.png" width="150"> <img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/289_heatmap_GT.png" width="150"> <img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/289_heatmap.png" width="150">
+<img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/289_img_GT.png" width="150"> <img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/289_heatmap_GT.png" width="150"> <img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/289_heatmap.png" width="150">
 
-<img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/291_img_GT.png" width="150"> <img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/291_heatmap_GT.png" width="150"> <img src="https://github.com/qyzdao/coco-my-pose-estimation/blob/main/imgs/291_heatmap.png" width="150">
+<img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/291_img_GT.png" width="150"> <img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/291_heatmap_GT.png" width="150"> <img src="https://github.com/qyzdao/single-human-pose-estimation/blob/main/imgs/291_heatmap.png" width="150">
